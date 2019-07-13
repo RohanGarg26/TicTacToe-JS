@@ -1,0 +1,14 @@
+body
+{
+    margin:0;
+}
+#box
+{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+}
+canvas
+{
+    background-image: url('rule-of-thirds-grid-png-243.png');
+}
